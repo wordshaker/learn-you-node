@@ -9,6 +9,5 @@ fs.readdir(pathToDir, (err, list) => {
     
     var filteredFiles = list.filter(f => path.extname(f) === extension)
                             .reduce((stringSoFar, currentFile) => `${stringSoFar}${currentFile}\n`,'');
-    
     console.log(filteredFiles);
 });
