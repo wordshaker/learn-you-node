@@ -16,4 +16,4 @@ My solutions for the  learnyounode module from [Node School](https://nodeschool.
 + [Exercise 6 - Make It Modular]('./exercise6.js)
    + [Exercise 6's Module]('./exercise6_module.js)
 
-+ 
++ [Exercise 7 - HTTP Client]('./exercise7.js) 
