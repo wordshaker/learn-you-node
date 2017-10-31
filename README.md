@@ -1,5 +1,6 @@
-# learn-you-node
-The learnyounode module from [Node School](https://nodeschool.io/)
+# learn-you-node 
+
+My solutions for the  learnyounode module from [Node School](https://nodeschool.io/)
 
 
 + [Exercise 1 - Hello World]('./exercise1.js)
