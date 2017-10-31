@@ -1,8 +1,3 @@
-console.log(total(process.argv));
-
-function total(arguments)
-{
-   return arguments.slice(2, arguments.length)
-                   .map(x => Number(x))
-                   .reduce((total, nextNum) => total + nextNum);
-}
+const fs = require('fs');
+var file =  fs.readFileSync(process.argv[2], 'utf8');
+console.log((file.split('\n').length) - 1);
