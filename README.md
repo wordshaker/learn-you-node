@@ -7,3 +7,6 @@ The learnyounode module from [Node School](https://nodeschool.io/)
 + exercise3.js - My First I/O!
 + exercise4.js - My First Async I/O!
 + exercise5.js - Filtered LS
++ exercise6.js - Make It Modular
+   + exercise6_module.js - the module created.
++ 
