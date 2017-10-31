@@ -2,11 +2,17 @@
 The learnyounode module from [Node School](https://nodeschool.io/)
 
 
-+ exercise1.js - Hello World
-+ exercise2.js - Baby Steps
-+ exercise3.js - My First I/O!
-+ exercise4.js - My First Async I/O!
-+ exercise5.js - Filtered LS
-+ exercise6.js - Make It Modular
-   + exercise6_module.js - the module created.
++ [Exercise 1 - Hello World]('./exercise1.js)
+
++ [Exercise 2 - Baby Steps]('./exercise2.js)
+
++ [Exercise 3 - My First I/O!]('./exercise3.js)
+
++ [Exercise 4 - My First Async I/O!]('./exercise4.js)
+
++ [Exercise 5 - Filtered LS]('./exercise5.js)
+
++ [Exercise 6 - Make It Modular]('./exercise6.js)
+   + [Exercise 6's Module]('./exercise6_module.js)
+
 + 
